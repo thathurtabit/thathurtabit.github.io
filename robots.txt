@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ghosthorses.co.uk
+
+# Sitemaps
+Sitemap: https://ghosthorses.co.uk/sitemap.xml
